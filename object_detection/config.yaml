@@ -1,0 +1,19 @@
+path: /content/home-interior-dataset/object_detection_dataset  # dataset root dir
+train: images  # train images (relative to 'path')
+val: images  # val images (relative to 'path')
+
+# Classes
+names:
+  0:sofa
+  1:chair
+  2:small plant
+  3:large plant
+  4:TV
+  5:TV stand
+  6:flower vase
+  7:table
+  8:floor lamp
+  9:table lamp
+  10:side table
+  11:wall art
+  12:dining table set
