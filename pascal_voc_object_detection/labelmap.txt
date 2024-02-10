@@ -1,0 +1,15 @@
+# label:color_rgb:parts:actions
+background:0,0,0::
+sofa:128,0,0::
+chair:0,128,0::
+small plant:128,128,0::
+large plant:0,0,128::
+TV:128,0,128::
+TV stand:0,128,128::
+flower vase:128,128,128::
+table:64,0,0::
+floor lamp:192,0,0::
+table lamp:64,128,0::
+side table:192,128,0::
+wall art:64,0,128::
+dining table set:192,0,128::
